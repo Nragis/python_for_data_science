@@ -24,3 +24,25 @@ kernel.json at the printed installation location.
 All notebooks will be stored in [notebooks](notebooks) and organized in 
 subfolders by chapter. These will contain the majority of the scratch work and
 notes from my reading.
+
+# Book Chapters
+ 1. Preliminaries
+ 2. Python Language Basics: IPython and Jupyter Notebooks
+ 3. Built-in Data Structures, Functions, and Files
+ 4. NumPy Basics: Arrays and Vectorized Computation
+ 5. Getting Started with pandas
+ 6. Data Loading, Storage, and File Formats
+ 7. Data Cleaning and Preparation
+ 8. Data Wrangling: Join, Combine, and Reshape
+ 9. Plotting and Visualization
+10. Data Aggregation and Group Operations
+11. Time Series
+12. Advanced pandas
+13. Introduction to Modelling Libraries in Python
+14. Data Analysis Examples
+
+Appendix:
+<ol type="A">
+  <li>Advanced NumPy</li>
+  <li>More on the IPython Systems</li>
+</ol>
