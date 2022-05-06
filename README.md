@@ -21,9 +21,8 @@ install --user --name=<venv_name>`. Verify your installation by checking the
 kernel.json at the printed installation location.
 
 ## Jupyter Notebooks
-All notebooks will be stored in [notebooks](notebooks) and organized in 
-subfolders by chapter. These will contain the majority of the scratch work and
-notes from my reading.
+All notebooks will be stored in [notebooks](notebooks) and organized by chapter.
+These will contain the majority of the scratch work and notes from my reading.
 
 # Book Chapters
  1. Preliminaries
